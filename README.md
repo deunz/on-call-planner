@@ -16,7 +16,11 @@ In the file `pcontraints.py`, complete your array (constrainte_ _votreprenom_):
 * 1 = request on-call
 
 # How to use it
+* Execute the file `schedule.py` with or without the -p flags
+
 Pass the -p flags for maximize solution with preference, otherwise don't use it
 
+
 **Very important**
+
 Keep and respect all systems constraint, otherwise the solver can't find any suitable solution
